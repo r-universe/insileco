@@ -16,5 +16,8 @@
   },
   {
     "package": "refR"
+  },
+  {
+    "package": "omdbr"
   }
 ]

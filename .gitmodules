@@ -33,3 +33,8 @@
 	url = https://github.com/inSileco/refR
 	shallow = true
 	registered = true
+[submodule "omdbr"]
+	path = omdbr
+	url = https://github.com/inSileco/omdbr
+	shallow = true
+	registered = true
