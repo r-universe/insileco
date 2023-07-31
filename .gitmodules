@@ -1,40 +1,25 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/insileco/universe
-	shallow = true
 	branch = HEAD
 [submodule "inSilecoMisc"]
 	path = inSilecoMisc
 	url = https://github.com/inSileco/inSilecoMisc
-	shallow = true
-	registered = true
 [submodule "graphicsutils"]
 	path = graphicsutils
 	url = https://github.com/inSileco/graphicsutils
-	shallow = true
-	registered = true
 [submodule "rowlbot"]
 	path = rowlbot
 	url = https://github.com/inSileco/rowlbot
-	shallow = true
-	registered = true
 [submodule "rchelsa"]
 	path = rchelsa
 	url = https://github.com/inSileco/rchelsa
-	shallow = true
-	registered = true
 [submodule "formbuildr"]
 	path = formbuildr
 	url = https://github.com/inSileco/formbuildr
-	shallow = true
-	registered = true
 [submodule "refR"]
 	path = refR
 	url = https://github.com/inSileco/refR
-	shallow = true
-	registered = true
 [submodule "omdbr"]
 	path = omdbr
 	url = https://github.com/inSileco/omdbr
-	shallow = true
-	registered = true
