@@ -6,5 +6,5 @@
     "metadata": "read",
     "statuses": "write"
   },
-  "repositories": ["formbuildr", "graphicsutils", "inSilecoMisc", "rchelsa", "refR", "rowlbot", "universe"]
+  "repositories": ["graphicsutils", "inSilecoMisc", "refR", "rowlbot", "formbuildr", "rchelsa", "universe"]
 }
