@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/insileco/universe
+	url = https://github.com/insileco/insileco.r-universe.dev
 	branch = HEAD
 [submodule "formbuildr"]
 	path = formbuildr
